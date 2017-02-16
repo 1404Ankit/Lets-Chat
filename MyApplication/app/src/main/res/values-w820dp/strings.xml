@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="add_new_friend" />
+    <string name="local_service_stopped" />
+    <string name="not_connected_to_service" />
+    <string name="make_sure_username_and_password_correct" />
+    <string name="fill_both_username_and_password" />
+    <string name="not_connected_to_network" />
+    <string name="sign_up" />
+    <string name="exit_application" />
+    <string name="signup_successfull" />
+    <string name="signup_failed" />
+    <string name="username_and_password_length_short" />
+    <string name="signup_type_same_password_in_password_fields" />
+    <string name="signup_fill_all_fields" />
+    <string name="signup_username_crashed" />
+</resources>
